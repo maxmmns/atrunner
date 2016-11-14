@@ -44,7 +44,7 @@ public class Marjan {
 		actions.setFields("//*[@id='signup_determine_email']", "maxmmns@gmail.com");
 		actions.clickElement("//*[@class='signup_determine_btn active']");
 		actions.clickElement("//*[@id='signup_password']");
-		actions.setFields("//*[@id='signup_password']","makilins");
+		actions.setFields("//*[@id='signup_password']","passssssss");
 		actions.clickElement("//*[@class='signup_login_btn active']");
 		System.out.println("Loged in");
 		
